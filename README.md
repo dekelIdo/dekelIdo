@@ -10,5 +10,5 @@
 
 •  🏆 Proficient in building single-page apps
 
- [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198248183-381babd2-be1c-4d11-8100-6918bb79ff3a.png=150x150)](https://www.linkedin.com/in/dekel-ido/ "Linkedin link").
+ [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198248183-381babd2-be1c-4d11-8100-6918bb79ff3a.png|width=100)](https://www.linkedin.com/in/dekel-ido/ "Linkedin link").
 
