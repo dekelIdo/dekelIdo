@@ -10,6 +10,10 @@
 
 •  🏆 Proficient in building single-page apps
 
-## Contact with me:
- [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198277403-18cd3cde-7b46-41cd-a070-bab472e66a4d.png)](https://skyllo.herokuapp.com "Skyllo link").
+### Connect with me:
+ [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198277403-18cd3cde-7b46-41cd-a070-bab472e66a4d.png)](https://skyllo.herokuapp.com "Skyllo link")
+ 
+### Skills
 
+
+![react(https://user-images.githubusercontent.com/109578899/198281193-8e99543e-a49d-4e95-bf1e-267a2df365d9.png)](https://reactjs.org/ "react link")
