@@ -1,4 +1,5 @@
-##  👋 Hi, I’m Dekel Ido ##
+##   👋 Hi, I’m Dekel Ido ##
+<p align="center">HEYYYYY</p>
 
 •  🧲 A people's person and a tech lover.
 
