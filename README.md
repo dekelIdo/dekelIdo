@@ -16,4 +16,4 @@
 ### Skills
 
 
-![react(https://user-images.githubusercontent.com/109578899/198281193-8e99543e-a49d-4e95-bf1e-267a2df365d9.png)](https://reactjs.org/ "react link")
+[![react](https://user-images.githubusercontent.com/109578899/198281193-8e99543e-a49d-4e95-bf1e-267a2df365d9.png)](https://reactjs.org/ "react link")
