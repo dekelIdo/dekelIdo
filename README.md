@@ -8,5 +8,4 @@
  
 - 📫 You can reach me at dekelido1@gmail.com
 
- [Or connect with me on Linkedin]
- ( https://www.linkedin.com/in/dekel-ido/ "Linkedin link").
+ [Or connect with me on Linkedin](https://www.linkedin.com/in/dekel-ido/ "Linkedin link").
