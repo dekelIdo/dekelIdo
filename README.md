@@ -17,3 +17,4 @@
 
 
 [![react](https://user-images.githubusercontent.com/109578899/198281193-8e99543e-a49d-4e95-bf1e-267a2df365d9.png)](https://reactjs.org/ "react link")
+[![js](https://user-images.githubusercontent.com/109578899/198281694-506f1401-fa24-4205-ac2f-e1fe11ea4e94.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "js link")
