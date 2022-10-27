@@ -1,4 +1,4 @@
-<## align="center">👋 Hi, I’m Dekel Ido</##>
+<h1 align="center">👋 Hi, I’m Dekel Ido</h1>
 
 •  🧲 A people's person and a tech lover.
 
