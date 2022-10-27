@@ -1,4 +1,4 @@
-•  👋 Hi, I’m Dekel Ido
+##  👋 Hi, I’m Dekel Ido ##
 
 •  🧲 A people's person and a tech lover.
 
