@@ -10,6 +10,5 @@
 
 •  🏆 Proficient in building single-page apps
 
-![linkedinIcon][(https://user-images.githubusercontent.com/109578899/198276886-109a8e83-fe76-4157-b523-71d1cf1c0a2c.png)](https://www.linkedin.com/in/dekel-ido/ "Linkedin link").
-
+ [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198277403-18cd3cde-7b46-41cd-a070-bab472e66a4d.png)](https://skyllo.herokuapp.com "Skyllo link").
 
