@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Dekel Ido</h1>
+##<p align="center">At the moment I'm looking for the place that will give me an opportunity and I can bring to light the skills and talent that I have. </p>##
 
 •  🧲 A people's person and a tech lover.
 
