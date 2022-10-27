@@ -26,6 +26,9 @@
 [![ang (1)](https://user-images.githubusercontent.com/109578899/198282305-bd229e9b-9c94-4415-ae7a-6fc89d388705.png)](https://angular.io/ "angular link")
 [![nodejs](https://user-images.githubusercontent.com/109578899/198282496-54989a33-f7e3-4586-ae58-146e627b5255.png)](https://nodejs.org/en/ "node link")
 [![sass](https://user-images.githubusercontent.com/109578899/198282635-3c39aa60-dc0c-4c6b-b94d-13c76ba48ff5.png)](https://sass-lang.com/ "sass link")
+[![redux](https://user-images.githubusercontent.com/109578899/198289080-a84dea90-c656-47fd-96f2-bc3e12c9c6bf.png)](https://redux.js.org/ "redux link")
+[![vuee (1)](https://user-images.githubusercontent.com/109578899/198289196-0488df75-a648-4383-b230-661730706a0d.png)](https://vuejs.org/ "vue link")
+[![expressJs](https://user-images.githubusercontent.com/109578899/198289711-303702a1-5be7-48c2-a940-725eb574db8f.png)](https://expressjs.com/ "express link")
 
 
 
