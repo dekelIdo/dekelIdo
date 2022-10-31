@@ -13,7 +13,7 @@
 •  🏆 Proficient in building single-page apps
 
 ### Connect with me:
- [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198277403-18cd3cde-7b46-41cd-a070-bab472e66a4d.png)](https://skyllo.herokuapp.com "Skyllo link")
+ [![linkedinIcon](https://user-images.githubusercontent.com/109578899/198277403-18cd3cde-7b46-41cd-a070-bab472e66a4d.png)](https://www.linkedin.com/in/dekel-ido/ "Linkedin link")
  
 ### Skills
 
