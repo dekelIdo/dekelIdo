@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Dekel Ido</h1>
-<h3 fontsize="23" align="center">At the moment I'm working for E-square company and i will be happy to hear about a new place that will give me an opportunity and I can bring to light the skills and talent that I have.</h3>
+<h3 fontsize="23" align="center">At the moment I'm working for OSA-Commerce company and i will be happy to hear about a new place that will give me an opportunity and I can bring to light the skills and talent that I have.</h3>
 <br>
 
 •  🧲 A people's person and a tech lover.
